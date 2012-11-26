@@ -108,7 +108,7 @@
 # 
 ## The repos.img image file is ready for use
 #
-### Creating #3 sles11sp2-64.img.gz
+### Creating #3 sles11sp2-64.img.gz ###
 # 1) Install default SLES 11 SP2 into a RAW disk image using kvm
 # 2) shut down the VM once all installed
 # 3) copy the VM raw image to the location where your mklapcloud script is
